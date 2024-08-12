@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,job_id,salary,manager_id,department_id
+80449,Bradley,Holmes,ihorne@example.org,4894303585,2023-05-29,Planning and development surveyor,5323.5,1980.0,44910
+35725,Abigail,Steele,rebecca75@example.com,001-455-957-2667x591,2022-05-29,"Physicist, medical",3673.3,54828.0,30992
+33114,Linda,Peterson,sheila42@example.net,597.234.7880x612,2024-07-25,Fish farm manager,2583.1,54828.0,91992
+35329,Michael,Collins,powellmichele@example.net,001-980-406-3028,2023-07-20,Fast food restaurant manager,1487.4,,15816
+35712,Priscilla,Carter,kflores@example.com,318.562.2741,2023-02-03,"Scientist, physiological",3930.3,54828.0,15816
+77424,Daniel,Avila,gonzalestheresa@example.com,952.956.4428,2021-01-14,Chief Operating Officer,1722.8,19063.0,15816
+553,Erika,Love,williammaldonado@example.com,851.371.0415x60124,2023-09-17,Retail buyer,8041.1,15232.0,44910
+62213,Jeremy,Murphy,jaclynvargas@example.net,(588)639-9947,2022-10-07,Medical laboratory scientific officer,3708.2,1980.0,91992
+25971,Mary,Miller,eringardner@example.com,+1-726-879-9332,2023-11-19,Plant breeder/geneticist,5828.9,1980.0,81339
+48523,Allen,Hurley,beckybenjamin@example.org,+1-370-358-8674x45754,2024-01-10,IT consultant,5178.0,33493.0,88163
+20770,Katherine,Allen,dawnwilliams@example.net,001-506-271-3378,2022-07-13,Corporate treasurer,6002.4,98633.0,83050
+74370,Marcus,Salinas,michaelcherry@example.net,(212)622-9134x30561,2022-09-06,Technical sales engineer,6596.9,33493.0,73617
+14961,Anne,Wheeler,matthew62@example.org,806.668.2432,2024-01-23,Health and safety adviser,3413.0,78470.0,73617
+58256,Travis,Sharp,tracy37@example.com,(229)961-0980x63178,2020-11-19,"Engineer, biomedical",4929.7,33493.0,83050
+78915,Kyle,Anderson,daniel54@example.com,280-913-1784x722,2022-04-28,Health promotion specialist,5024.5,33493.0,83050
+92356,Patricia,Warren,dylan46@example.net,001-548-754-5207x90307,2023-08-12,"Producer, television/film/video",5693.0,54828.0,15816
+81838,Joshua,Taylor,reidashley@example.com,(959)900-3937x0878,2022-01-31,Wellsite geologist,6733.3,96058.0,88163
+7147,Michael,Walter,jonespamela@example.org,237.574.3792x52432,2020-06-06,"Pharmacist, hospital",6885.0,78470.0,88163
+6026,Paul,Hill,amystephens@example.net,567-508-7087x41024,2021-01-27,Astronomer,3535.2,,91992
+97481,John,Ortiz,robertgilmore@example.net,001-863-896-8709x103,2020-06-02,"Nurse, children's",8266.2,78470.0,91992
+99850,Devin,Huber,john38@example.org,(350)331-4396x2135,2022-12-06,Data processing manager,4686.3,96058.0,48564
+97180,David,Owens,greeranthony@example.org,201-780-5801,2020-03-31,Geochemist,5603.3,33493.0,88163
+80928,Carl,Gibson,andreawilliams@example.net,(241)541-7326x22367,2022-10-06,"Engineer, electronics",3908.0,22830.0,91992
+54892,Kathleen,Oliver,geraldreed@example.net,348-970-4252,2023-10-27,Educational psychologist,5709.8,19063.0,73617
+41198,Mercedes,Baker,udavidson@example.org,497.456.8002x44649,2021-02-21,Field seismologist,8436.8,22830.0,73617
+27951,Joel,Glenn,lisa97@example.net,981-494-9113,2021-07-19,Astronomer,4135.5,54828.0,91992
+72720,David,Medina,cmcclain@example.net,001-499-591-9944x472,2023-03-03,Chiropodist,4189.9,78470.0,73617
+87113,Alyssa,Valentine,heather93@example.org,001-928-276-3705x7801,2020-03-03,"Lighting technician, broadcasting/film/video",7487.6,42923.0,44910
+26601,Sean,Butler,spearsmonica@example.org,+1-962-343-5460x1320,2022-09-20,"Production designer, theatre/television/film",6223.9,33493.0,15816
+53926,Brittany,Carroll,kristahoward@example.net,557.554.4005x955,2024-03-05,Ergonomist,9796.2,19063.0,73617
+43766,Cynthia,Haynes,burgesskenneth@example.net,001-382-404-2648x09613,2022-12-04,Music therapist,4804.5,22830.0,15816
+31484,Johnathan,Bentley,nbaker@example.org,(632)429-7970,2023-12-12,Pharmacologist,9581.2,,48564
+82505,Kathy,Garcia,walterchristopher@example.org,(749)844-6588x2331,2023-11-14,Mechanical engineer,1983.8,,81339
+59172,Tim,Wright,brandonhill@example.net,652.245.5534x2380,2020-11-26,Graphic designer,4367.2,1980.0,73617
+15370,Jacob,Zamora,gonzalezlindsay@example.net,+1-571-752-3706,2023-08-14,Operational investment banker,3006.1,42923.0,81339
+950,Patrick,Hines,alan53@example.org,+1-671-557-7789x63832,2023-11-11,Horticultural therapist,7284.4,96058.0,44910
+75537,Sean,Lewis,hannah26@example.com,001-977-967-0212x939,2021-12-07,Clinical molecular geneticist,2462.9,78470.0,44910
+49593,Lauren,Roberson,qwalker@example.org,+1-577-545-1398x23606,2020-04-23,"Pilot, airline",7257.2,98633.0,44910
+13778,David,Parker,qstuart@example.org,(631)931-9831x694,2022-07-16,Barista,8824.9,33493.0,88163
+64446,Alexander,Robinson,frodriguez@example.com,+1-984-580-5915x2671,2022-01-18,Arts development officer,4189.3,15232.0,48564
+1092,Sylvia,Clark,kristenduke@example.org,(341)423-7261x446,2021-12-02,"Psychologist, prison and probation services",2355.8,33493.0,48564
+21525,Jacqueline,Carroll,whitneyingram@example.net,001-734-710-5895x6033,2022-12-23,Social worker,3382.6,15232.0,88163
+93257,Andrea,Andrade,bobby34@example.com,001-917-990-3578x82365,2022-01-29,"Conservator, furniture",3855.7,42923.0,44910
+94129,Theresa,Miller,samuelchurch@example.net,001-845-951-2511x4429,2020-09-11,Retail buyer,9800.7,98633.0,30992
+7172,Denise,Thomas,keith18@example.com,+1-312-930-1146x754,2023-12-26,"Designer, interior/spatial",6529.1,33493.0,21406
+64923,Michael,Lee,marymitchell@example.com,4609475262,2020-02-10,Theatre stage manager,4182.6,,21406
+84029,Micheal,Smith,lespinoza@example.com,321-653-6572x47232,2023-02-23,"Psychologist, clinical",3951.3,96058.0,30992
+5540,Amanda,Fox,micheal17@example.net,(551)232-9241,2023-09-04,Civil Service fast streamer,6425.0,33493.0,81339
+72997,David,Miller,wroberts@example.com,499.350.8343x13078,2023-08-24,Technical author,4984.3,19063.0,30992
+22944,Katrina,Walton,coxdawn@example.com,+1-429-747-3448,2020-06-12,Amenity horticulturist,5183.3,19063.0,30992
